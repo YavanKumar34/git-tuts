@@ -1,1 +1,1 @@
-console.log("Server is running on Port")
+console.log("Server is running on port")
